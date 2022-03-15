@@ -14,6 +14,7 @@ This banking record system project in C++ is a simple console application develo
 
 **Edit Record:**
  This works in similar manner to the Search feature. When the function for Edit Record is first executed, it shows the total records in the file, and the user can edit the information by providing record number. Then, the C++ project shows all the data in that record, and the user can enter any data to modify. If the record to be edited for is not found, it displays the message – “Error in opening! File Not Found!!”
+ 
 
 **Delete Record:**
  First of all, when the function of this feature is executed, it shows all the records in the file, and the user can enter the record number to delete. If the record was not found, this banking record system project in C++ displays the message – “Error in opening! File Not Found!!”
